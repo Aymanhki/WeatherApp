@@ -1,0 +1,1 @@
+This is a fork of the [weather app](https://github.com/dev-aniketj/WeatherApp-Android) originally created by [@dev-aniketj](https://github.com/dev-aniketj) that adds firebase authentication integration and a profile/user feature.
